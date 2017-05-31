@@ -23,12 +23,8 @@ h2{
   font-size: 42px;
 }
 
-.motto,
-.footer{
-  color: gray;
-}
-
 .motto{
+  color: gray;
   font-size: 21px;
 }
 
@@ -46,5 +42,5 @@ p.phonepara a.phoneimage {
 
 .footer{
   text-align: right;
-  color: gray;  
+  color: gray;
 }
