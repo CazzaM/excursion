@@ -27,3 +27,15 @@ h2{
   font-size: 21px;
   color: gray;
 }
+
+p.camppara a.campimage {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+p.phonepara a.phoneimage {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
