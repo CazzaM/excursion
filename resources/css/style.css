@@ -4,7 +4,8 @@ html{
   text-align: center;
 }
 
-h1{
+h1,
+h2{
     color: white;
 }
 
@@ -20,5 +21,9 @@ a{
 h2{
   font-weight: 300;
   font-size: 42px;
-  color: white;
+}
+
+.motto{
+  font-size: 21px;
+  color: gray;
 }
